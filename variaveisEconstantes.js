@@ -2,7 +2,7 @@
 var a = 3
 var a = 40
 
-//let, é uma variavel, em que não posso declara-la novamente
+//let, é uma variavel, em que não posso declara-la novamente, com let eu consigo alterar a variavel
 let b = 4
 //EX do que não pode acontecer: let b = 4
 //                              let b = 7
